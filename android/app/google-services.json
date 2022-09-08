@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638792166305",
+    "project_id": "cookwithmeauth",
+    "storage_bucket": "cookwithmeauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638792166305:android:88e1842724a1634d2c39e0",
+        "android_client_info": {
+          "package_name": "com.example.cook_with_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638792166305-3csdq0hsp08n2n0m7700n3rjav7ucphb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD42jkiauORRSjDUeEFGs4pVqsKgjosdc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638792166305-3csdq0hsp08n2n0m7700n3rjav7ucphb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
